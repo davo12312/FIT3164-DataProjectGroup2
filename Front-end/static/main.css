@@ -1,0 +1,76 @@
+body {
+  background-colour: lightgrey;
+  color: #333333;
+  margin-top: 5rem;
+}
+
+.page{
+  height: 1500px;
+  width: 1320px;
+  background-color: white;
+  margin: auto;
+  padding: 10px;
+  padding-top: 25px;
+}
+
+h1 {
+  font-weight: 900;
+  color: #00308F
+  background-color: #B0CBFF;
+  font-family: Times New Roman, Times, serif;
+  font-size: 40px;
+  text-align: left;
+}
+
+h2{
+  font-size: 25px;
+  text-align: left;
+  font-family: Times New Roman, Times, serif;
+  color: #00308F;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+}
+
+p {
+  text-align: left;
+  vertical-align: middle;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.button {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+  margin-top: 150px;
+  margin-left: 570px;
+  line-height: 5em;
+  border-radius: 50%;
+}
+
+.bg-steel {
+  background-color: #5f788a;
+}
+
+.site-header .navbar-nav .nav-link {
+  color: #cbd5db;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #ffffff;
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+}
